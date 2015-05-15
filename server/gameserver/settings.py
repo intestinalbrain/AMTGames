@@ -1,4 +1,6 @@
 # coding: utf-8
 
 HOST = '127.0.0.1'
-PORT = 8081
+PORT = 8080
+GROUP_PLAYER_COUNT = 50
+TIME_TOUR = 60
